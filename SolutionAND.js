@@ -2,7 +2,7 @@
  * The following is the function where the solution shall be written
  */
 
-//Note: the time complexity is not great due to the nested loops but I couldn't find the faster method.
+//Note: the time complexity is not great due to the nested loops but I couldn't figure out the faster method.
 
 function solution(input) {
     const stringToNumber = input.replace(/[^\d]/g, '');
